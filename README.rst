@@ -33,15 +33,15 @@ Nameless
     :alt: PyPI Package monthly downloads
     :target: https://pypi.python.org/pypi/nameless-minimal
 
-.. |wheel| image:: https://pypip.in/wheel/nameless-minimal/badge.png?style=flat
+.. |wheel| image:: https://img.shields.io/pypi/wheel/nameless-minimal.svg?style=flat
     :alt: PyPI Wheel
     :target: https://pypi.python.org/pypi/nameless-minimal
 
-.. |supported-versions| image:: https://pypip.in/py_versions/nameless-minimal/badge.png?style=flat
+.. |supported-versions| image:: https://img.shields.io/pypi/pyversions/nameless-minimal.svg?style=flat
     :alt: Supported versions
     :target: https://pypi.python.org/pypi/nameless-minimal
 
-.. |supported-implementations| image:: https://pypip.in/implementation/nameless-minimal/badge.png?style=flat
+.. |supported-implementations| image:: https://img.shields.io/pypi/implementation/nameless-minimal.svg?style=flat
     :alt: Supported imlementations
     :target: https://pypi.python.org/pypi/nameless-minimal
 
